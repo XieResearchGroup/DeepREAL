@@ -1,6 +1,6 @@
 # DeepREAL
 This is the repository for DeepREAL to replicate experiment of the Out-of-distribution setting where test set chemicals are significantly different from the training set.
-
+![alt text](https://github.com/XieResearchGroup/DeepREAL/blob/main/concept-flow.png?raw=true)
 ## Environment
 Please intall packages as in the file "[env] DISAE +contextPred.txt"
 
