@@ -5,6 +5,6 @@ This is the repository for DeepREAL to replicate experiment of the Out-of-distri
 Please intall packages as in the file "[env] DISAE +contextPred.txt"
 
 ## Data and  Pretrained model weight
-Please download data and pretrained binary prediction model weight from here[https://zenodo.org/record/5502339#.YT7McJ1KiUk]
+Please download data and pretrained model weights from here[https://zenodo.org/record/5502339#.YT7McJ1KiUk]
 ## To run the model
-
+Pls run: python train_3class.py
